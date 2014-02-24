@@ -5,6 +5,7 @@ A custom target for sending NLog logs as notifications to Pushover (https://push
 
 by Martin Gadd
 
+<a href="https://github.com/MartinGadd/NLogPushoverTarget/blob/master/bin/NLogPushoverTarget_v1.0.00.zip">Download v.1.0.00</a>
 
 This package can be used to let Nlog send notifications to Pushover
 
