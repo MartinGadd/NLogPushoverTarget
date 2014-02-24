@@ -1,16 +1,18 @@
 NLogPushoverTarget
 ==================
 
-A custom target for sending NLog logs as notifications to Pushover (https://psuhover.net)
+A custom target for sending NLog logs as notifications to Pushover (https://pushover.net)
 
 by Martin Gadd
 
 
 This package can be used to let Nlog send notifications to Pushover
 
-The included pushover.dll comes from Pushover.NET at https://pushover.codeplex.com/
+Third Party Dlls
+pushover.dll comes from Pushover.NET at https://pushover.codeplex.com/
+NLog.dll comes from NLog at https://github.com/NLog/NLog
 
-STEPS:
+Installation STEPS:
 1. Create and Pushover account (https://pushover.net)
 2. Install Pushover on your phone
 3. Create a new application at your Pushover account
