@@ -8,11 +8,11 @@ by Martin Gadd
 
 This package can be used to let Nlog send notifications to Pushover
 
-Third Party Dlls<br/>
+<h3>Third Party Dlls</h3>
 pushover.dll comes from Pushover.NET at https://pushover.codeplex.com/ <br/>
 NLog.dll comes from NLog at https://github.com/NLog/NLog
 
-Installation STEPS:</br>
+<h3>Installation STEPS:</h3>
 1. Create and Pushover account (https://pushover.net)<br/>
 2. Install Pushover on your phone<br/>
 3. Create a new application at your Pushover account<br/>
